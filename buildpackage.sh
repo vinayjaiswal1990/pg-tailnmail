@@ -9,5 +9,5 @@ dpkg-deb --build $name $name\_$version\_$arch.deb
 if [ $? -eq 0 ]; then
     echo "Successfully built package"
 fi
-mkdir deb
+#mkdir deb
 #mv *.deb deb/
