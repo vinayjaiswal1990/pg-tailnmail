@@ -10,4 +10,4 @@ if [ $? -eq 0 ]; then
     echo "Successfully built package"
 fi
 mkdir deb
-mv *.deb deb/
+#mv *.deb deb/
