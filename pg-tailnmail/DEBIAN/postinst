@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if [ -d /opt/vinay/dbops/log/pg-tailnmail/ ]; 
+then
+        chown -R postgres:root /opt/vinay/dbops/log/pg-tailnmail// 
+fi
