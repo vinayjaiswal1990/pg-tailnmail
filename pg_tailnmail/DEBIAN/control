@@ -1,4 +1,4 @@
-Package: pg_tailnmail
+Package: pg-tailnmail
 Architecture: all
 Maintainer:  <jaiswalvinny9@gmail.com>
 Depends: perl, libnet-smtp-ssl-perl, libauthen-sasl-perl
