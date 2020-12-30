@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-name="pg_tailnmail"
+name="pg-tailnmail"
 version=$(grep Version $name/DEBIAN/control|awk '{print $2}')
 arch=$(grep Architecture $name/DEBIAN/control|awk '{print $2}')
 echo "Building package... $name version $version"
