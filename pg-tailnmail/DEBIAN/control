@@ -3,5 +3,5 @@ Architecture: all
 Maintainer:  <jaiswalvinny9@gmail.com>
 Depends: perl, libnet-smtp-ssl-perl, libauthen-sasl-perl
 Priority: optional
-Version: 1.0.5
+Version: 2.0.2
 Description: Log file monitoring for PostgreSQL Server Logs (http://bucardo.org/downloads/tail_n_mail) 
